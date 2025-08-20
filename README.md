@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github.com/LIMNAKYUNG/LIMNAKYUNG/blob/main/내사진.jpg" width="200" />
+
+---
+### 📫 Contact
+- **Email**: lnk914@naver.com
+- **LinkedIn**: [LinkedIn](https://linkedin.com/in/아이디](https://www.linkedin.com/in/limnakyung/)
