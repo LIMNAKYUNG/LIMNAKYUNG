@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ---
 ### 📫 Contact
 - **Email**: lnk914@naver.com
-- **LinkedIn**: [LinkedIn](https://linkedin.com/in/아이디](https://www.linkedin.com/in/limnakyung/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/limnakyung/)
