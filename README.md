@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 ### 🌱 About me
 - Soongsil University AI Convergence
-- 회사 DB 관련 업무 담당 인턴 근무 중
+- 회사 DB 관리 업무 담당 인턴 근무 중
 - 항상 배우고 성장하는 개발자 지망생
   
 ---
