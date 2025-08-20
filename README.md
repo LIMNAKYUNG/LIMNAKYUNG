@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 <img src="https://github.com/LIMNAKYUNG/LIMNAKYUNG/blob/main/내사진.jpg" width="200" />
 
 ---
+### 🌱 About me
+- Soongsil University AI Convergence
+- 회사 DB 관련 업무 담당 인턴 근무 중
+- 항상 배우고 성장하는 개발자 지망생
+  
+---
 ### 📫 Contact
 - **Email**: lnk914@naver.com
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/limnakyung/)
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/limnakyung/)
