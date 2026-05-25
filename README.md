@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 ---
 ### 🌱 About me
-- Soongsil University AI Convergence
-- 회사 DB 관리 업무 담당 인턴 근무 중
+- Soongsil University AI & Software
 - 항상 배우고 성장하는 개발자 지망생
 
 ---
@@ -35,7 +34,7 @@ Here are some ideas to get you started:
 
 ---
 ### 📖 Experiences
-- **2025.01 ~ 현재** 
+- **2025.06 ~ 2025.12** 
   - 우당네트윅 인턴 근무
   - DF 동아리(머신러닝 스터디 및 프로젝트) 활동
   - ADSP 취득
